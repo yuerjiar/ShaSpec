@@ -1,1 +1,1 @@
-# Bridging the modality gap in multimodality eye disease screening: learning modality Shared-Specific Feature via multi-level regularization
+# Bridging the modality gap in multimodal eye disease screening: learning modality shared-specific feature via multi-level regularization
